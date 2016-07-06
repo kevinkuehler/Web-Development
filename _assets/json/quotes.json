@@ -3,16 +3,16 @@
 	"author": "Natsume Sosek"},
 	
 	{"text": "Truth is so precious that she should always be attended by a bodyguard of lies.",
-		"author": "Winston Churchill"},
+	"author": "Winston Churchill"},
 	
 	{"text": "I thought to myself with what means, with what deceptions, with how many varied arts, with what industry a man sharpens his wits to deceive another, and through these variations the world is made more beautiful.",
-		"author": "Francesco Vettori"},
+	"author": "Francesco Vettori"},
 
 	{"text": "The infliction of cruelty with a good conscience is a delight to moralists–that is why they invented hell.",
-		"author": "Bertrand Russell"},
+	"author": "Bertrand Russell"},
 
 	{"text": "<b>Mind</b>, <span style='font-style: italic'>n</span>. A mysterious form of matter secreted by the brain. Its chief activity consists in the endeavor to ascertain its own nature, the futility of the attempt being due to the fact that is has nothing but itself to know itself with.",
-		"author": "Ambrose Bierce"},
+	"author": "Ambrose Bierce"},
 
 	{"text": "It is difficult to free fools from the chains they revere.",
 	"author": "Voltaire"},
@@ -98,7 +98,7 @@
 	{"text": "The brain is a wonderful organ; it starts working the moment you get up in the morning and does not stop until you get into the office.",
 	"author": "Robert Frost"},
 
-	{"text": "When you meet a swordsman, draw your sword: Do not recite poetry to one who is not a poet.",
+	{"text": "When you meet a swordsman, draw your sword. Do not recite poetry to one who is not a poet.",
 	"author": "Robert Greene"},
 
 	{"text": "All our knowledge merely helps us to die a more painful death than animals that know nothing.", 
@@ -117,6 +117,79 @@
 	"author": "Thomas Jefferson"},
 
 	{"text": "Nerds just don't happen to dress informally. They do it too consistently. Consciously or not, they dress informally as prophylactic measure against stupidity.",
-	"author": "Paul Graham"}
+	"author": "Paul Graham"},
 
+	{"text": "Give a man a 0day and he'll have access for a day, teach a man to phish and he'll have access for life.",
+	"author": "the grugq"},
+	
+	{"text": "We are so vain that we even care for the opinion of those we don't care for.",
+	"author": "Marie von Ebner-Eschenbach"},
+	
+	{"text": "The world is a dangerous place... not because of those who do evil, but because of those who look on and do nothing.",
+	"author": "Mr. Robot"},
+	
+	{"text": "A perfect plan doesn't mean having everything go within expectations. A perfect plan is achieved when it has the plasticity needed to flexibly deal with troubles.",
+	"author": "Makishima Shougo"},
+	
+	{"text": "No matter what side of the argument you are on, you always find people on your side that you wish were on the other.",
+	"author": "Thomas Berger"},
+	
+	{"text": "Everyone wants to live at the expense of the state. They forget that the state lives at the expense of everyone.",
+	"author": "Frédéric Bastiat"},
+	
+	{"text": "Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.",
+	"author": "Aaron Swartz"},
+	
+	{"text": "If there is a problem you can't solve, then there is an easier problem you can solve: find it.", 
+	"author": "George Pólya"},
+	
+	{"text": "You can either be informed and your own rulers, or you can be ignorant and have someone else, who is not ignorant, rule over you.",
+	"author": "Julian Assange"},
+	
+	{"text": "Do I not destroy my enemies when I make them my friends?",
+	"author": "Abraham Lincoln"},
+	
+	{"text": "It is incumbent on every generation to pay its own debts as it goes. A principle which if acted on would save one-half the wars of the world.",
+	"author": "Thomas Jefferson"},
+	
+	{"text": "Bodily decay is gloomy in prospect, but of all human contemplations the most abhorrent is body without mind.",
+	"author": "Thomas Jefferson"},
+	
+	{"text": "There’s no freedom quite like the freedom of being constantly underestimated.",
+	"author": "Scott Lynch"},
+	
+	{"text": "I don't care if I pass your test, I don't care if I follow your rules. If you can cheat, so can I. I won't let you beat me unfairly - I'll beat you unfairly first.",
+	"author": "Ender Wiggin"},
+	
+	{"text": "Do not envy those who seem to be naturally gifted; it is often a curse, as such types rarely learn the value of diligence and focus, and they pay for this later in life.",
+	"author": "Robert Greene"}, 
+	
+	{"text": "Arguing that you don’t care about the right to privacy because you have nothing to hide is no different than saying you don’t care about free speech because you have nothing to say.",
+	"author": "Edward Snowden"},
+	
+	{"text": "If you want to go quickly, go alone. If you want to go far, go together.",
+	"author": "African Proverb"},
+	
+	{"text": "Propaganda is to a democracy what the bludgeon is to a totalitarian state.",
+	"author": "Noam Chomsky"},
+	
+	{"text": "I’ve never found it hard to hack most people. If you listen to them, watch them, their vulnerabilities are like a neon sign screwed into their heads.",
+	"author": "Elliot Alderson"},
+	
+	{"text": "Your mind is programmable – if you’re not programming your mind, someone else will program it for you.",
+	"author": "Jeremy Hammond"},
+	
+	{"text": "If a machine is expected to be infallible, it cannot also be intelligent.",
+	"author": "Alan Turing"},
+	
+	{"text": "Innovation is serendipity, so you don't know what people will make.",
+	"author": "Tim Berners-Lee"},
+	
+	{"text": "If all mankind minus one were of one opinion, mankind would be no more justified in silencing that one person than he, if he had the power, would be justified in silencing mankind.",
+	"author": "John Stuart Mill"},
+	
+	{"text": "You can jail a Revolutionary, but you can't jail the Revolution.",
+	"author": "Huey Newton"},
+	
+	
 ]
