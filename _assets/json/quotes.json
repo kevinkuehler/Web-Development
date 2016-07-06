@@ -1,116 +1,122 @@
 [
-  {"image": "https://raw.githubusercontent.com/bomholt/freecodecamp_solutions/master/intermediate_front_end_development_projects/_assets/img/711_clerk.jpg",
-   "author": "7¹¹ Clerk",
-   "text": "Our policy is: If for any reason you're not completely satisfied, I hate you.",
-   "episode": "#30 War Is the H-Word"},
+	{"text": "To be a warrior is not a simple matter of wishing to be one. It is rather an endless struggle that will go on to the very last moment of our lives. Nobody is born a warrior, in exactly the same way that nobody is born an average man. We make ourselves into one or the other.",
+	"author": "Natsume Sosek"},
+	
+	{"text": "Truth is so precious that she should always be attended by a bodyguard of lies.",
+		"author": "Winston Churchill"},
+	
+	{"text": "I thought to myself with what means, with what deceptions, with how many varied arts, with what industry a man sharpens his wits to deceive another, and through these variations the world is made more beautiful.",
+		"author": Francesco Vettori},
 
-  {"image": "https://raw.githubusercontent.com/bomholt/freecodecamp_solutions/master/intermediate_front_end_development_projects/_assets/img/bender(4).jpg",
-   "author": "Bender",
-   "text": "Game's over, losers. I have all the money! Compare your lives to mine and then kill yourselves!",
-   "episode": "#16 A Head in the Polls"},
+	{"text": "The infliction of cruelty with a good conscience is a delight to moralists–that is why they invented hell.",
+		"author": "Bertrand Russell"},
 
-  {"image": "https://raw.githubusercontent.com/bomholt/freecodecamp_solutions/master/intermediate_front_end_development_projects/_assets/img/phillip_j_fry(4).jpg",
-   "author": "Phillip J. Fry",
-   "text": "Just shut up and take my money!",
-   "episode": "#91 Attack of the Killer App"},
+	{"text": "<b>Mind</b>, <span style='font-style: italic'>n</span>. A mysterious form of matter secreted by the brain. Its chief activity consists in the endeavor to ascertain its own nature, the futility of the attempt being due to the fact that is has nothing but itself to know itself with.",
+		"author": "Ambrose Bierce"},
 
-  {"image": "https://raw.githubusercontent.com/bomholt/freecodecamp_solutions/master/intermediate_front_end_development_projects/_assets/img/bender(5).jpg",
-   "author": "Bender",
-   "text": "This is the worst kind of discrimination, the kind against me!",
-   "episode": "#30 War Is the H-Word"},
+	{"text": "It is difficult to free fools from the chains they revere.",
+	"author": "Voltaire"},
 
-  {"image": "https://raw.githubusercontent.com/bomholt/freecodecamp_solutions/master/intermediate_front_end_development_projects/_assets/img/turanga_leela(1).jpg",
-   "author": "Turanga Leela",
-   "text": "Please try to understand: You're a man, I'm a woman. We're just too different.",
-   "episode": "#46 Time Keeps on Slippin'"},
+	{"text":"Better a diamond with a flaw than a pebble without.",
+	"author": "Confucius"},
 
-  {"image": "https://raw.githubusercontent.com/bomholt/freecodecamp_solutions/master/intermediate_front_end_development_projects/_assets/img/hubert_j_farnsworth(2).jpg",
-   "author": "Hubert J. Farnsworth",
-   "text": "I don't want to live on this planet anymore.",
-   "episode": "#97 A Clockwork Origin"},
+	{"text": "To live is not to breathe but to act. It is to make use of our organs, our senses, our faculties, of all the parts of ourselves which give us the sentiment of our existence. The man who has lived the most is not he who has counted the most years but he who has most felt life.",
+	"author": "Jean-Jacques Rousseau"},
 
-  {"image": "https://raw.githubusercontent.com/bomholt/freecodecamp_solutions/master/intermediate_front_end_development_projects/_assets/img/zapp_brannigan(1).jpg",
-   "author": "Zapp Brannigan",
-   "text": "You win again, gravity.",
-   "episode": "#33 Amazon Women in the Mood"},
+	{"text": "If we lie to the government, it’s a felony, but if they lie to us it’s politics.",
+	"author": "Huey Freeman"},
 
-  {"image": "https://raw.githubusercontent.com/bomholt/freecodecamp_solutions/master/intermediate_front_end_development_projects/_assets/img/bender(3).jpg",
-   "author": "Bender",
-   "text": "Oh, wait. You're serious. Let me laugh even harder.",
-   "episode": "#57 Love And Rocket"},
+	{"text": "Fear of a name increases fear of the thing itself.",
+	"author": "J.K. Rowling"},
 
-  {"image": "https://raw.githubusercontent.com/bomholt/freecodecamp_solutions/master/intermediate_front_end_development_projects/_assets/img/zapp_brannigan(3).jpg",
-   "author": "Zapp Brannigan",
-   "text": "Kif, I have made it with a woman. Inform the men.",
-   "episode": "#4 Love's Labours Lost in Space"},
+	{"text": "The suppression of uncomfortable ideas may be common in religion and politics, but it is not the path to knowledge.",
+	"author": "Carl Sagan"},
 
-  {"image": "https://raw.githubusercontent.com/bomholt/freecodecamp_solutions/master/intermediate_front_end_development_projects/_assets/img/bender(1).jpg",
-   "author": "Bender",
-   "text": "I'm so embarrassed, I wish everybody else was dead.",
-   "episode": "#67 Bend Her"},
+	{"text": "A woman may very well form a friendship with a man, but for this to endure, it must be assisted by a little physical antipathy.",
+	"author": "Friedrich Nietzsche"},
 
-  {"image": "https://raw.githubusercontent.com/bomholt/freecodecamp_solutions/master/intermediate_front_end_development_projects/_assets/img/turanga_leela(3).jpg",
-   "author": "Turanga Leela",
-   "text": "At the risk of sounding negative ... No!",
-   "episode": "#37 The Birdbot of Ice-Catraz"},
+	{"text": "If the natural tendencies of mankind are so bad that it is not safe to permit people to be free, how is it that the tendencies of these organizers are always good? Do not the legislators and their appointed agents also belong to the human race? Or do they believe that they themselves are made of a finer clay than the rest of mankind?",
+	"author": "Frédéric Bastiat"},
 
-  {"image": "https://raw.githubusercontent.com/bomholt/freecodecamp_solutions/master/intermediate_front_end_development_projects/_assets/img/john_a_zoidberg.jpg",
-   "author": "John A. Zoidberg",
-   "text": "Hooray! A happy ending for the rich people!",
-   "episode": "#100 The Mutants Are Revolting"},
+	{"text": "Propaganda does not deceive people; it merely helps them to deceive themselves.",
+	"author": "Eric Hoffer"},
 
-  {"image": "https://raw.githubusercontent.com/bomholt/freecodecamp_solutions/master/intermediate_front_end_development_projects/_assets/img/phillip_j_fry(5).jpg",
-   "author": "Phillip J. Fry",
-   "text": "Ehh, it's like a party in my mouth, and everyone's throwing up.",
-   "episode": "#34 Parasites Lost"},
+	{"text": "Turning conscience into a liability is a fundamental goal of all power systems.",
+	"author": "Stefan Molyneux"},
 
-  {"image": "https://raw.githubusercontent.com/bomholt/freecodecamp_solutions/master/intermediate_front_end_development_projects/_assets/img/hermes_conrad.jpg",
-   "author": "Hermes Conrad",
-   "text": "With a warning label this big, you know they gotta be fun!",
-   "episode": "#70 Three Hundred Big Boys"},
+	{"text": "What does seventy million years mean to beings who live only one-millionth as long? We are like butterflies who flutter for a day and think it is forever.",
+	"author": "Carl Sagan" },
 
-  {"image": "https://raw.githubusercontent.com/bomholt/freecodecamp_solutions/master/intermediate_front_end_development_projects/_assets/img/zapp_brannigan(2).jpg",
-   "author": "Zapp Brannigan",
-   "text": "That young man fills me with hope. Plus some other emotions which are weird and deeply confusing.",
-   "episode": "#30 War Is the H-Word"},
+	{"text": "A leader is best when people barely know that he exists, not so good when people obey and acclaim him, worst when they despise him. Fail to honor people, they fail to honor you. But of a good leader, who talks little, when his work is done, his aims fulfilled, they will all say: We did this ourselves.",
+	"author": "Lao Tzu" },
 
-  {"image": "https://raw.githubusercontent.com/bomholt/freecodecamp_solutions/master/intermediate_front_end_development_projects/_assets/img/hubert_j_farnsworth(1).jpg",
-   "author": "Hubert J. Farnsworth",
-   "text": "Everyone, I have a very dramatic announcement. So anyone with a weak heart should leave now. Goodbye.",
-   "episode": "#23 A Clone of My Own"},
+	{"text": "Not every truth is the better for showing its face unveiled.",
+	"author": "Pindar" },
 
-  {"image": "https://raw.githubusercontent.com/bomholt/freecodecamp_solutions/master/intermediate_front_end_development_projects/_assets/img/phillip_j_fry(2).jpg",
-   "author": "Phillip J. Fry",
-   "text": "They're like sex, except I'm having them!",
-   "episode": "#28 The Problem with Popplers"},
+	{"text": "By three methods we may learn wisdom: First, by reflection, which is noblest; Second, by imitation, which is easiest; And third by experience, which is the bitterest.",
+	"author": "Confucius"},
 
-  {"image": "https://raw.githubusercontent.com/bomholt/freecodecamp_solutions/master/intermediate_front_end_development_projects/_assets/img/phillip_j_fry(1).jpg",
-   "author": "Phillip J. Fry",
-   "text": "Valentine's Days coming? Oh, crap. I forgot to get a girlfriend again.",
-   "episode": "#20 Put Your Head on My Shoulders"},
+	{"text": "Words often betray their own purpose, obscuring the very thoughts they are designed to express.",
+	"author": "Francis Bacon"},
 
-  {"image": "https://raw.githubusercontent.com/bomholt/freecodecamp_solutions/master/intermediate_front_end_development_projects/_assets/img/bender(2).jpg",
-   "author": "Bender",
-   "text": "Now my usual fee is 500 bucks. But seeing how it's you, I'll need it in advance.",
-   "episode": "#20 Put Your Head on My Shoulders"},
+	{"text": "The test of a first-rate intelligence is the ability to hold two opposed ideas in mind at the same time and still retain the ability to function.",
+	"author": "F. Scott Fitzgerald" },
 
-  {"image": "https://raw.githubusercontent.com/bomholt/freecodecamp_solutions/master/intermediate_front_end_development_projects/_assets/img/hubert_j_farnsworth(3).jpg",
-   "author": "Hubert J. Farnsworth",
-   "text": "Now, now, there'll be plenty of time to discuss your objections when and if you return.",
-   "episode": "#8 A Big Piece of Garbage"},
+	{"text": "When we think back on our past sensations or feelings, our thought is a faithful mirror that copies its objects truly; but it does so in colors that are fainter and more washed-out than those in which our original perceptions were clothed.",
+	"author": "David Hume"},
 
-  {"image": "https://raw.githubusercontent.com/bomholt/freecodecamp_solutions/master/intermediate_front_end_development_projects/_assets/img/lrrr.jpg",
-   "author": "Lrrr",
-   "text": "This concept of 'wuv' confuses and infuriates us!",
-   "episode": "#57 Love And Rocket"},
+	{"text": "Only silly folk identify creative originality with the extraordinary and fanciful; others recognize that its measure lies in putting everyday things to uses which had not occurred to others. The operation is novel, not the materials out of which it is constructed.",
+	"author": "John Dewey"},
 
-  {"image": "https://raw.githubusercontent.com/bomholt/freecodecamp_solutions/master/intermediate_front_end_development_projects/_assets/img/phillip_j_fry(3).jpg",
-   "author": "Phillip J. Fry",
-   "text": "Well, thanks to the Internet, I'm now bored with sex.",
-   "episode": "#22 A Bicyclops Built for Two"},
+	{"text": "I was really too honest a man to be a politician and live.",
+	"author": "Socrates"},
 
-  {"image": "https://raw.githubusercontent.com/bomholt/freecodecamp_solutions/master/intermediate_front_end_development_projects/_assets/img/turanga_leela(2).jpg",
-   "author": "Turanga Leela",
-   "text": "You can’t keep boogie-ing like this. You’ll come down with a fever of some sort.",
-   "episode": "#61 Jurassic Bark"}
+	{"text": "A man can rationalize anything if he thinks about it long enough.",
+	"author": "Anonymous"},
+
+	{"text": "Only two things are infinite, the universe and the human stupidity, and I am not too sure about the former",
+	"author": "Albert Einstein"},
+
+	{"text": "Being able to break security doesnt make you a hacker anymore than being able to hotwire cars makes you an automotive engineer.",
+	"author": "Eric Raymond"},
+
+	{"text": "Simplicity is the ultimate sophistication.",
+	"author": "Leonardo da Vinci"},
+
+	{"text": "Do everything you can to make it around the system, over the system, or in the system.",
+	"author": "Tupac Shakur"},
+	
+	{"text": "Television is about watching a life instead of having one.", 
+	"author": "Beth Mazur"},
+
+	{"text": "If you ask the government for permission to protest it, you deserve to be told no.",
+	"author": "Jim Lesczynski"},
+
+	{"text": "It is easy in the world to live after the world’s opinion; it is easy in solitude to live after our own; but the great man is he who in the midst of the crowd keeps with perfect sweetness the independence of solitude.", 
+	"author": "Ralph Emerson"},
+
+	{"text": "The brain is a wonderful organ; it starts working the moment you get up in the morning and does not stop until you get into the office.",
+	"author": "Robert Frost"},
+
+	{"text": "When you meet a swordsman, draw your sword: Do not recite poetry to one who is not a poet.",
+	"author": "Robert Greene"},
+
+	{"text": "All our knowledge merely helps us to die a more painful death than animals that know nothing.", 
+	"author": "Maurice Maeterlinck"},
+
+	{"text": "Democracy is being allowed to vote for the candidate you dislike least.",
+	"author": "Robert Byrne"},
+
+	{"text": "Politics is the gentle art of getting votes from the poor and campaign funds from the rich, by promising to protect each from the other.", 
+	"author": "Oscar Ameringer"},
+	
+	{"text": "The big thieves hang the little ones.",
+	"author": "Czech Proverb"},
+	
+	{"text": "That government is best which governs least.",
+	"author": "Thomas Jefferson"},
+
+	{"text": "Nerds just don't happen to dress informally. They do it too consistently. Consciously or not, they dress informally as prophylactic measure against stupidity.",
+	"author": "Paul Graham"}
+
 ]
