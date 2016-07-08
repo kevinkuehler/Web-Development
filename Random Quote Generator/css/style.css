@@ -1,9 +1,6 @@
 @import 'https://fonts.googleapis.com/css?family=PT+Serif';
-@import 'https://fonts.googleapis.com/css?family=Italianno';
-@import 'https://fonts.googleapis.com/css?family=Cinzel';
-@import 'https://fonts.googleapis.com/css?family=Cinzel+Decorative';
-@import 'https://fonts.googleapis.com/css?family=Arima+Madurai:300';
 @import 'https://fonts.googleapis.com/css?family=Cormorant+Infant';
+@import 'https://fonts.googleapis.com/css?family=David+Libre';
 body:before {
 	content: ' ';
 	display: block;
@@ -43,11 +40,12 @@ body {
 
 .quote-wrapper {
 	position: inherit;
-	background: rgba(0, 251, 251, 0.6); /* For browsers that do not support gradients */
+	background: rgba(0, 251, 251, 0.6);
+	/* For browsers that do not support gradients */
 	background: linear-gradient(to right, rgba(0, 251, 251, 0.6), rgba(35, 138, 169, 0.6));
-  background: -webkit-linear-gradient(left, rgba(0, 251, 251, 0.6), rgba(35, 138, 169, 0.6)); 
-  background: -o-linear-gradient(right, rgba(0, 251, 251, 0.6), rgba(35, 138, 169, 0.6)); 
-  background: -moz-linear-gradient(right, rgba(0, 251, 251, 0.6), rgba(35, 138, 169, 0.6)); 
+	background: -webkit-linear-gradient(left, rgba(0, 251, 251, 0.6), rgba(35, 138, 169, 0.6));
+	background: -o-linear-gradient(right, rgba(0, 251, 251, 0.6), rgba(35, 138, 169, 0.6));
+	background: -moz-linear-gradient(right, rgba(0, 251, 251, 0.6), rgba(35, 138, 169, 0.6));
 	border-radius: 2px;
 	text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
 }
@@ -57,6 +55,7 @@ body {
 	overflow-x: hidden;
 	padding-left: 30px;
 	padding-right: 30px;
+	font-family: 'Cormorant Infant', serif;
 }
 
 .quote-text {
@@ -64,8 +63,7 @@ body {
 	padding-top: 30px;
 	font-weight: 400;
 	font-size: 24px;
-	padding-bottom: 53px;
-	font-family: 'Cormorant Infant', serif;
+	padding-bottom: 43px;
 }
 
 .quote-author {
@@ -73,9 +71,8 @@ body {
 	bottom: 0;
 	right: 0;
 	margin-right: 17px;
-	font-size: 29px;
+	font-size: 20px;
 	padding-bottom: 5px;
-	font-family: 'Cinzel Decorative', cursive;
 	letter-spacing: 1px;
 }
 
@@ -104,21 +101,23 @@ body {
 #post-twitter {
 	right: 0;
 	bottom: 0;
-	background: #1da1f2; /* For browsers that do not support gradients */
+	background: #1da1f2;
+	/* For browsers that do not support gradients */
 	background: linear-gradient(#1da1f2, #096caa);
-  background: -webkit-linear-gradient(#1da1f2, #096caa); 
-  background: -o-linear-gradient(#1da1f2, #096caa); 
-  background: -moz-linear-gradient(#1da1f2, #096caa); 
+	background: -webkit-linear-gradient(#1da1f2, #096caa);
+	background: -o-linear-gradient(#1da1f2, #096caa);
+	background: -moz-linear-gradient(#1da1f2, #096caa);
 }
 
 #post-facebook {
 	right: 67px;
 	bottom: 0;
-	background: #3b5998; /* For browsers that do not support gradients */
+	background: #3b5998;
+	/* For browsers that do not support gradients */
 	background: linear-gradient(#4060a5, #324b81);
-	background: -webkit-linear-gradient(#4060a5, #324b81); 
-  background: -o-linear-gradient(#4060a5, #324b81); 
-  background: -moz-linear-gradient(#4060a5, #324b81); 
+	background: -webkit-linear-gradient(#4060a5, #324b81);
+	background: -o-linear-gradient(#4060a5, #324b81);
+	background: -moz-linear-gradient(#4060a5, #324b81);
 }
 
 
