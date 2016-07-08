@@ -72,7 +72,7 @@
 	"author": "Socrates"},
 
 	{"text": "A man can rationalize anything if he thinks about it long enough.",
-	"author": "Anonymous"},
+	"author": "Unknown"},
 
 	{"text": "Only two things are infinite, the universe and the human stupidity, and I am not too sure about the former",
 	"author": "Albert Einstein"},
@@ -251,7 +251,7 @@
 	{"text": "The true delight is in the finding out rather than in the knowing.",
 	"author": "Issac Asimov"},
 	
-	{"text": "To insult someone we call him 'bestial. For deliberate cruelty and nature, 'human' might be the greater insult.",
+	{"text": "To insult someone we call him 'bestial.' For deliberate cruelty and nature, 'human' might be the greater insult.",
 	"author": "Issac Asimov"},
 	
 	{"text": "Education is a progressive discovery of your own ignorance.",
@@ -282,5 +282,8 @@
 	"author": "Julian Assange"},
 	
 	{"text": "Perhaps we've never been visited by aliens because they have looked upon Earth and decided there's no sign of intelligent life.",
-	"author": "Neil deGrasse Tyson"}
+	"author": "Neil deGrasse Tyson"},
+	
+	{"text": "Any planet is 'Earth' to those that live on it.",
+	"author": "Isaac Asimov"}
 ]
