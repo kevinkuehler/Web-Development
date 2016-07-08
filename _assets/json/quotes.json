@@ -32,9 +32,6 @@
 	{"text": "The suppression of uncomfortable ideas may be common in religion and politics, but it is not the path to knowledge.",
 	"author": "Carl Sagan"},
 
-	{"text": "A woman may very well form a friendship with a man, but for this to endure, it must be assisted by a little physical antipathy.",
-	"author": "Friedrich Nietzsche"},
-
 	{"text": "If the natural tendencies of mankind are so bad that it is not safe to permit people to be free, how is it that the tendencies of these organizers are always good? Do not the legislators and their appointed agents also belong to the human race? Or do they believe that they themselves are made of a finer clay than the rest of mankind?",
 	"author": "Frédéric Bastiat"},
 
@@ -285,5 +282,11 @@
 	"author": "Neil deGrasse Tyson"},
 	
 	{"text": "Any planet is 'Earth' to those that live on it.",
-	"author": "Isaac Asimov"}
+	"author": "Isaac Asimov"},
+	
+	{"text": "Freedom is living without government coercion. So when a politician talks about freedom for this group or that, ask yourself whether he is advocating more government action or less.",
+	"author": "Ron Paul"},
+	
+	{"text": "The urge to save humanity is almost always a false front for the urge to rule.",
+	"author": "H. L. Mencken"}
 ]
