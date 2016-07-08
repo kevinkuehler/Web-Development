@@ -1,0 +1,158 @@
+@import 'https://fonts.googleapis.com/css?family=PT+Serif';
+@import 'https://fonts.googleapis.com/css?family=Italianno';
+@import 'https://fonts.googleapis.com/css?family=Cinzel';
+@import 'https://fonts.googleapis.com/css?family=Cinzel+Decorative';
+@import 'https://fonts.googleapis.com/css?family=Arima+Madurai:300';
+@import 'https://fonts.googleapis.com/css?family=Cormorant+Infant';
+body:before {
+	content: ' ';
+	display: block;
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	z-index: -1;
+	/* Keep picture behind black background */
+	opacity: 0.4;
+	/* merge with background */
+	background-image: url('http://www.magic4walls.com/wp-content/uploads/2014/04/bridge-lake-pier-city-night-lights-macro-photo-blur-hd-wallpaper.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: 30% 10%;
+	-ms-background-size: cover;
+	-o-background-size: cover;
+	-moz-background-size: cover;
+	-webkit-background-size: cover;
+	background-size: cover;
+	overflow-x: hidden;
+	min-height: 750px;
+	/* protects from height resizing */
+}
+
+body {
+	padding-top: 170px;
+	background: #000;
+}
+
+.center-wrap {
+	width: 460px;
+	position: relative;
+	margin: 0 auto;
+}
+
+.quote-wrapper {
+	position: inherit;
+	background: rgba(0, 251, 251, 0.6); /* For browsers that do not support gradients */
+	background: linear-gradient(to right, rgba(0, 251, 251, 0.6), rgba(35, 138, 169, 0.6));
+  background: -webkit-linear-gradient(left, rgba(0, 251, 251, 0.6), rgba(35, 138, 169, 0.6)); 
+  background: -o-linear-gradient(right, rgba(0, 251, 251, 0.6), rgba(35, 138, 169, 0.6)); 
+  background: -moz-linear-gradient(right, rgba(0, 251, 251, 0.6), rgba(35, 138, 169, 0.6)); 
+	border-radius: 2px;
+	text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+}
+
+.text-wrap {
+	color: #e6e6e6;
+	overflow-x: hidden;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+.quote-text {
+	text-align: center;
+	padding-top: 30px;
+	font-weight: 400;
+	font-size: 24px;
+	padding-bottom: 53px;
+	font-family: 'Cormorant Infant', serif;
+}
+
+.quote-author {
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	margin-right: 17px;
+	font-size: 29px;
+	padding-bottom: 5px;
+	font-family: 'Cinzel Decorative', cursive;
+	letter-spacing: 1px;
+}
+
+#custom-quotation-mark {
+	padding-right: 8px;
+}
+
+.button-row {
+	position: absolute;
+	margin-bottom: -83px;
+}
+
+#quote-button {
+	left: 0;
+	bottom: 0;
+	/* comment out these two lines to rever to std colors */
+	background: rgba(255, 255, 255, 0.3);
+	border: 1px solid transparent;
+}
+
+#quote-button:hover {
+	background: #fff;
+	color: #1252a0 !important;
+}
+
+#post-twitter {
+	right: 0;
+	bottom: 0;
+	background: #1da1f2; /* For browsers that do not support gradients */
+	background: linear-gradient(#1da1f2, #096caa);
+  background: -webkit-linear-gradient(#1da1f2, #096caa); 
+  background: -o-linear-gradient(#1da1f2, #096caa); 
+  background: -moz-linear-gradient(#1da1f2, #096caa); 
+}
+
+#post-facebook {
+	right: 67px;
+	bottom: 0;
+	background: #3b5998; /* For browsers that do not support gradients */
+	background: linear-gradient(#4060a5, #324b81);
+	background: -webkit-linear-gradient(#4060a5, #324b81); 
+  background: -o-linear-gradient(#4060a5, #324b81); 
+  background: -moz-linear-gradient(#4060a5, #324b81); 
+}
+
+
+/* button customization */
+
+.btn {
+	/*box-shadow: 1px 1px 3px #b3b3b3; */
+}
+
+.btn.outline {
+	background: none;
+	padding: 9px 22px;
+}
+
+.btn-primary.outline {
+	border: 1px solid #ccc;
+	color: #fff;
+}
+
+.btn-primary.outline:hover {
+	border-color: #fff;
+	/*box-shadow: 1px 1px 3px #d9d9d9; */
+}
+
+.btn:focus,
+.btn:active {
+	outline: none;
+	border-color: #ccc;
+}
+
+.btn-primary.outline:active,
+.btn-primary.outline.active {
+	outline: none;
+	color: #fff;
+	box-shadow: none;
+	background: none;
+}
