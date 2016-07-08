@@ -1,1 +1,1 @@
-# Random-Quote-Generator
+# Collection of Web Development Projects by Kevin Kuehler
