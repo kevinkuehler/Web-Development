@@ -1,76 +1,60 @@
 <!DOCTYPE html>
 <html >
-  <head>
-    <meta charset="UTF-8">
-    <title>Quote Generator</title>
-    
-    
-    
-    <link rel='stylesheet prefetch' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css'>
-<link rel='stylesheet prefetch' href='http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css'>
-
-        <link rel="stylesheet" href="css/style.css">
-
-    
-    
-    
-  </head>
-
-  <body>
-
-    <script>
-	window.fbAsyncInit = function() {
-		FB.init({
-			appId: '391950400975243',
-			xfbml: true,
-			version: 'v2.6'
-		});
-	};
-
-	(function(d, s, id) {
-		var js, fjs = d.getElementsByTagName(s)[0];
-		if (d.getElementById(id)) {
-			return;
-		}
-		js = d.createElement(s);
-		js.id = id;
-		js.src = "//connect.facebook.net/en_US/sdk.js";
-		fjs.parentNode.insertBefore(js, fjs);
-	}(document, 'script', 'facebook-jssdk'));
-</script>
-<div class="center-wrap">
-	<div class="quote-wrapper">
-		<div class="text-wrap">
-			<p class="quote-text" id="quote">
-				<span id="custom-quotation-mark">...<i class="fa fa-quote-left"> </i></span>
-			</p>
-			<br>
-			<h3 class="quote-author" id="author"></h1>
-		</div>
-	</div>
-	<div class="buttons-wrap">
-		<button class="btn btn-primary outline button-row" id="quote-button" type="button"><span style="font-family: 'PT Serif', serif; margin:0px -4px; font-size:14px;">New Quote</span></button>
-
-		<a class="btn btn-primary outline button-row" id="post-twitter" title="Tweet this quote!" target="_blank">
-			<i class="fa fa-twitter" style="margin:0px -3px; z-index:9999; "></i>
-		</a>
-
-		<a class="btn btn-primary outline button-row" id="post-facebook" title="Post this quote to Facebook!" target="_blank">
-			<i class="fa fa-facebook" style="margin:0px -1px; z-index:9999;"></i>
-		</a>
-	</div>
-</div>
-</div>
-    <script src='https://code.jquery.com/jquery-2.2.4.min.js'></script>
-<script src='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js'></script>
-<script src='https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js'></script>
-<script src='http://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.11.2/jquery-ui.min.js'></script>
-<script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
-
-        <script src="js/index.js"></script>
-
-    
-    
-    
-  </body>
+   <head>
+      <meta charset="UTF-8">
+      <title>Quote Generator</title>
+      <link rel='stylesheet prefetch' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css'>
+      <link rel='stylesheet prefetch' href='http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css'>
+      <link rel="stylesheet" href="css/style.css">
+   </head>
+   <body>
+      <script>
+         window.fbAsyncInit = function() {
+         	FB.init({
+         		appId: '391950400975243',
+         		xfbml: true,
+         		version: 'v2.6'
+         	});
+         };
+         
+         (function(d, s, id) {
+         	var js, fjs = d.getElementsByTagName(s)[0];
+         	if (d.getElementById(id)) {
+         		return;
+         	}
+         	js = d.createElement(s);
+         	js.id = id;
+         	js.src = "//connect.facebook.net/en_US/sdk.js";
+         	fjs.parentNode.insertBefore(js, fjs);
+         }(document, 'script', 'facebook-jssdk'));
+      </script>
+      <div class="center-wrap">
+         <div class="quote-wrapper">
+            <div class="text-wrap">
+               <p class="quote-text" id="quote">
+                  <span id="custom-quotation-mark">...<i class="fa fa-quote-left"> </i></span>
+               </p>
+               <br>
+               <h3 class="quote-author" id="author">
+               </h1>
+            </div>
+         </div>
+         <div class="buttons-wrap">
+            <button class="btn btn-primary outline button-row" id="quote-button" type="button"><span style="font-family: 'PT Serif', serif; margin:0px -4px; font-size:14px;">New Quote</span></button>
+            <a class="btn btn-primary outline button-row" id="post-twitter" title="Tweet this quote!" target="_blank">
+            <i class="fa fa-twitter" style="margin:0px -3px; z-index:9999; "></i>
+            </a>
+            <a class="btn btn-primary outline button-row" id="post-facebook" title="Post this quote to Facebook!" target="_blank">
+            <i class="fa fa-facebook" style="margin:0px -1px; z-index:9999;"></i>
+            </a>
+         </div>
+      </div>
+      </div>
+      <script src='https://code.jquery.com/jquery-2.2.4.min.js'></script>
+      <script src='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js'></script>
+      <script src='https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js'></script>
+      <script src='http://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.11.2/jquery-ui.min.js'></script>
+      <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+      <script src="js/index.js"></script>
+   </body>
 </html>
