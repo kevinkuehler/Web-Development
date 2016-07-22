@@ -1,0 +1,242 @@
+@import url('http://fonts.googleapis.com/css?family=Roboto:400,300,100');
+@import 'https://fonts.googleapis.com/css?family=Exo+2:100,200,300,400';
+$font: 'Exo 2',
+sans-serif;
+$main_weight:300;
+$light_weight:200;
+$thin:100;
+$backcolor: #0F1A20;
+$backcolorlight: #27393f;
+$headerbackcolor:#225e7d;
+$locationcolor:#04c8c8;
+$maintextcolor:#f7f7f7;
+$maingreen:#00997a;
+$unitred:#df4463;
+
+@mixin gradientTopBot($c1,
+$c2, $per) {
+	background: $c1;
+	background: linear-gradient(to bottom, $c1, $c2 $per); 
+	background: -webkit-linear-gradient($c1, $c2 $per);
+	background: -o-linear-gradient($c1, $c2 $per); 
+  background: -moz-linear-gradient($c1, $c2 $per); 
+}
+
+@mixin transition($elements,
+$time,
+$type) {
+	transition: $elements $time $type;
+	-webkit-transition: $elements $time $type;
+	-moz-transition: $elements $time $type;
+	-o-transition: $elements $time $type;
+	-ms-transition: $elements $time $type;
+}
+
+@mixin shadow($h_off,
+$v_off,
+$blur,
+$spread,
+$color) {
+	-moz-box-shadow: $h_off $v_off $blur $spread $color;
+	-webkit-box-shadow: $h_off $v_off $blur $spread $color;
+	box-shadow: $h_off $v_off $blur $spread $color;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+html, body {
+	font-family: $font;
+	font-weight: $main_weight;
+	min-height: 100%;
+	@include gradientTopBot($backcolorlight, $backcolor, 50%);
+	color: $maintextcolor;
+	z-index: -1;
+}
+
+.weather-icon-bar {
+	padding-top: 11px;
+	float: right;
+	overflow: hidden;
+	@media only screen and (max-width: 610px) {
+		padding-top: 5em;
+	}
+}
+
+.time-wrap {
+	padding-top: 27px;
+	float: left;
+}
+
+.fa-stack {
+	position: relative;
+	width: 2.5em;
+	height: 2.5em;
+}
+
+.fa-stack-4x {
+	font-size: 2.7em;
+	position: absolute;
+}
+
+.fa-stack-2x {
+	color: $headerbackcolor;
+	font-size: 1.3em;
+	position: absolute;
+	top: 14px;
+	left: -2px;
+}
+
+.header-container {
+	width: 100%;
+	font-size: 21px;
+	height: 80px;
+	overflow: hidden;
+	@include gradientTopBot(#1272a0,$headerbackcolor, 50%);
+	z-index: 5;
+}
+
+.location-info-wrap h2 {
+	color: $locationcolor;
+	margin-top: 8px;
+}
+
+#user-location {
+	margin-bottom: 29px;
+}
+
+.header-content {
+	display: block;
+	padding-bottom: 9px;
+}
+
+.main-weather-wrap {
+	height: 100%;
+}
+
+.weather-attr {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-bottom:13px;
+	&:hover {
+		border-radius: 15px;
+		@include transition(all,
+		.4s,
+		linear);
+		background: rgba(16, 28, 35, 0.6);
+		@include shadow(inset,
+		0,
+		0,
+		13px,
+		#000);
+		z-index: 1;
+	}
+}
+
+#cust-sun {
+	font-size:19px; 
+	padding-top:6px; 
+}
+#weather-box {
+	cursor:pointer; 
+}
+
+hr.style1 {
+	border-top: 7px solid $maingreen;
+	text-align: center;
+	margin: 0 auto;
+	width: 285px;
+	padding: 10px;
+	margin-bottom: 18px;
+}
+
+.wi-weather {
+	display: block;
+	z-index: 100;
+	font-size: 86px;
+	line-height: 1.5em;
+	margin-top: 0.1em;
+	margin-bottom: 0.2em;
+}
+
+.wi-humidity {
+	color: $maingreen;
+}
+
+.wi-cloudy,
+.wi-fog {
+	color: gray;
+}
+
+.wi-day-sunny {
+	color: #db780b;
+}
+
+.wi-snow,
+.wi-rain,
+.wi-sprinkle {
+	color: #01d9f1;
+}
+
+.wi-thunderstorm {
+	color: #ffd11a;
+}
+.wi-earthquake {
+	color:#0077b3; 
+}
+.wi-sunrise {
+	color:#e3ab02; 
+}
+
+#unit-degree {
+	color: $unitred;
+	//cursor: pointer;
+}
+
+#forcast-header {
+	margin-top:90px;
+	margin-left:8px;
+}
+.weekly-forecast-wrap {
+	@media (max-width: 770px) {
+		display: none;
+	}
+}
+
+#weekly-weather {
+	margin: 50px 0 50px 0;
+	
+	width: 100%;
+	border-collapse: collapse;
+	td {
+		width: 14.29%;
+		height: 140px;
+		padding: 10px;
+		vertical-align: top;
+		text-align: center;
+		&:nth-child(even) {
+			.day {
+				color: #1ad1ff;
+			}
+		}
+		&:nth-child(odd) {
+			.day {
+				color: $locationcolor;
+			}
+		}
+	}
+	.day {
+		font-weight: $thin;
+	}
+	.day-temp-high {
+		font-weight: $main_weight;
+		color: text-danger;
+	}
+	.day-temp-low {
+		font-weight: $thin;
+		padding-top: 3px;
+		margin-left: -1px;
+	}
+}
