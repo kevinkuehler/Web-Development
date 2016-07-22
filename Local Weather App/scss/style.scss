@@ -19,7 +19,7 @@ $c2, $per) {
 	background: linear-gradient(to bottom, $c1, $c2 $per); 
 	background: -webkit-linear-gradient($c1, $c2 $per);
 	background: -o-linear-gradient($c1, $c2 $per); 
-  background: -moz-linear-gradient($c1, $c2 $per); 
+	background: -moz-linear-gradient($c1, $c2 $per); 
 }
 
 @mixin transition($elements,
@@ -192,7 +192,6 @@ hr.style1 {
 
 #unit-degree {
 	color: $unitred;
-	//cursor: pointer;
 }
 
 #forcast-header {
