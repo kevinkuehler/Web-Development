@@ -1,5 +1,5 @@
 @import url('http://fonts.googleapis.com/css?family=Roboto:400,300,100');
-@import 'https://fonts.googleapis.com/css?family=Exo+2:100,200,300,400';
+@import url('https://fonts.googleapis.com/css?family=Exo+2:100,200,300,400');
 $font: 'Exo 2',
 sans-serif;
 $main_weight:300;
@@ -231,7 +231,6 @@ hr.style1 {
 	}
 	.day-temp-high {
 		font-weight: $main_weight;
-		color: text-danger;
 	}
 	.day-temp-low {
 		font-weight: $thin;
