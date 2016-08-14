@@ -1,307 +1,511 @@
 [
-	{"text": "To be a warrior is not a simple matter of wishing to be one. It is rather an endless struggle that will go on to the very last moment of our lives. Nobody is born a warrior, in exactly the same way that nobody is born an average man. We make ourselves into one or the other.",
-	"author": "Natsume Sosek"},
-	
-	{"text": "Truth is so precious that she should always be attended by a bodyguard of lies.",
-	"author": "Winston Churchill"},
-	
-	{"text": "I thought to myself with what means, with what deceptions, with how many varied arts, with what industry a man sharpens his wits to deceive another, and through these variations the world is made more beautiful.",
-	"author": "Francesco Vettori"},
+	{
+		"text": "To be a warrior is not a simple matter of wishing to be one. It is rather an endless struggle that will go on to the very last moment of our lives. Nobody is born a warrior, in exactly the same way that nobody is born an average man. We make ourselves into one or the other.",
+		"author": "Natsume Sosek"
+	},
 
-	{"text": "The infliction of cruelty with a good conscience is a delight to moralists–that is why they invented hell.",
-	"author": "Bertrand Russell"},
+	{
+		"text": "Truth is so precious that she should always be attended by a bodyguard of lies.",
+		"author": "Winston Churchill"
+	},
 
-	{"text": "<b>Mind</b>, <span style='font-style: italic'>n</span>. A mysterious form of matter secreted by the brain. Its chief activity consists in the endeavor to ascertain its own nature, the futility of the attempt being due to the fact that is has nothing but itself to know itself with.",
-	"author": "Ambrose Bierce"},
+	{
+		"text": "I thought to myself with what means, with what deceptions, with how many varied arts, with what industry a man sharpens his wits to deceive another, and through these variations the world is made more beautiful.",
+		"author": "Francesco Vettori"
+	},
 
-	{"text": "It is difficult to free fools from the chains they revere.",
-	"author": "Voltaire"},
+	{
+		"text": "The infliction of cruelty with a good conscience is a delight to moralists–that is why they invented hell.",
+		"author": "Bertrand Russell"
+	},
 
-	{"text":"Better a diamond with a flaw than a pebble without.",
-	"author": "Confucius"},
+	{
+		"text": "<b>Mind</b>, <span style='font-style: italic'>n</span>. A mysterious form of matter secreted by the brain. Its chief activity consists in the endeavor to ascertain its own nature, the futility of the attempt being due to the fact that is has nothing but itself to know itself with.",
+		"author": "Ambrose Bierce"
+	},
 
-	{"text": "To live is not to breathe but to act. It is to make use of our organs, our senses, our faculties, of all the parts of ourselves which give us the sentiment of our existence. The man who has lived the most is not he who has counted the most years but he who has most felt life.",
-	"author": "Jean-Jacques Rousseau"},
+	{
+		"text": "It is difficult to free fools from the chains they revere.",
+		"author": "Voltaire"
+	},
 
-	{"text": "If we lie to the government, it’s a felony, but if they lie to us it’s politics.",
-	"author": "Huey Freeman"},
+	{
+		"text": "Better a diamond with a flaw than a pebble without.",
+		"author": "Confucius"
+	},
 
-	{"text": "Fear of a name increases fear of the thing itself.",
-	"author": "J.K. Rowling"},
+	{
+		"text": "To live is not to breathe but to act. It is to make use of our organs, our senses, our faculties, of all the parts of ourselves which give us the sentiment of our existence. The man who has lived the most is not he who has counted the most years but he who has most felt life.",
+		"author": "Jean-Jacques Rousseau"
+	},
 
-	{"text": "The suppression of uncomfortable ideas may be common in religion and politics, but it is not the path to knowledge.",
-	"author": "Carl Sagan"},
+	{
+		"text": "If we lie to the government, it’s a felony, but if they lie to us it’s politics.",
+		"author": "Huey Freeman"
+	},
 
-	{"text": "If the natural tendencies of mankind are so bad that it is not safe to permit people to be free, how is it that the tendencies of these organizers are always good? Do not the legislators and their appointed agents also belong to the human race? Or do they believe that they themselves are made of a finer clay than the rest of mankind?",
-	"author": "Frédéric Bastiat"},
+	{
+		"text": "Fear of a name increases fear of the thing itself.",
+		"author": "J.K. Rowling"
+	},
 
-	{"text": "Propaganda does not deceive people; it merely helps them to deceive themselves.",
-	"author": "Eric Hoffer"},
+	{
+		"text": "The suppression of uncomfortable ideas may be common in religion and politics, but it is not the path to knowledge.",
+		"author": "Carl Sagan"
+	},
 
-	{"text": "Turning conscience into a liability is a fundamental goal of all power systems.",
-	"author": "Stefan Molyneux"},
+	{
+		"text": "If the natural tendencies of mankind are so bad that it is not safe to permit people to be free, how is it that the tendencies of these organizers are always good? Do not the legislators and their appointed agents also belong to the human race? Or do they believe that they themselves are made of a finer clay than the rest of mankind?",
+		"author": "Frédéric Bastiat"
+	},
 
-	{"text": "What does seventy million years mean to beings who live only one-millionth as long? We are like butterflies who flutter for a day and think it is forever.",
-	"author": "Carl Sagan" },
+	{
+		"text": "Propaganda does not deceive people; it merely helps them to deceive themselves.",
+		"author": "Eric Hoffer"
+	},
 
-	{"text": "A leader is best when people barely know that he exists, not so good when people obey and acclaim him, worst when they despise him. Fail to honor people, they fail to honor you. But of a good leader, who talks little, when his work is done, his aims fulfilled, they will all say: We did this ourselves.",
-	"author": "Lao Tzu" },
+	{
+		"text": "Turning conscience into a liability is a fundamental goal of all power systems.",
+		"author": "Stefan Molyneux"
+	},
 
-	{"text": "Not every truth is the better for showing its face unveiled.",
-	"author": "Pindar" },
+	{
+		"text": "What does seventy million years mean to beings who live only one-millionth as long? We are like butterflies who flutter for a day and think it is forever.",
+		"author": "Carl Sagan"
+	},
 
-	{"text": "By three methods we may learn wisdom: First, by reflection, which is noblest; Second, by imitation, which is easiest; And third by experience, which is the bitterest.",
-	"author": "Confucius"},
+	{
+		"text": "A leader is best when people barely know that he exists, not so good when people obey and acclaim him, worst when they despise him. Fail to honor people, they fail to honor you. But of a good leader, who talks little, when his work is done, his aims fulfilled, they will all say: We did this ourselves.",
+		"author": "Lao Tzu"
+	},
 
-	{"text": "Words often betray their own purpose, obscuring the very thoughts they are designed to express.",
-	"author": "Francis Bacon"},
+	{
+		"text": "Not every truth is the better for showing its face unveiled.",
+		"author": "Pindar"
+	},
 
-	{"text": "The test of a first-rate intelligence is the ability to hold two opposed ideas in mind at the same time and still retain the ability to function.",
-	"author": "F. Scott Fitzgerald" },
+	{
+		"text": "By three methods we may learn wisdom: First, by reflection, which is noblest; Second, by imitation, which is easiest; And third by experience, which is the bitterest.",
+		"author": "Confucius"
+	},
 
-	{"text": "When we think back on our past sensations or feelings, our thought is a faithful mirror that copies its objects truly; but it does so in colors that are fainter and more washed-out than those in which our original perceptions were clothed.",
-	"author": "David Hume"},
+	{
+		"text": "Words often betray their own purpose, obscuring the very thoughts they are designed to express.",
+		"author": "Francis Bacon"
+	},
 
-	{"text": "Only silly folk identify creative originality with the extraordinary and fanciful; others recognize that its measure lies in putting everyday things to uses which had not occurred to others. The operation is novel, not the materials out of which it is constructed.",
-	"author": "John Dewey"},
+	{
+		"text": "The test of a first-rate intelligence is the ability to hold two opposed ideas in mind at the same time and still retain the ability to function.",
+		"author": "F. Scott Fitzgerald"
+	},
 
-	{"text": "I was really too honest a man to be a politician and live.",
-	"author": "Socrates"},
+	{
+		"text": "When we think back on our past sensations or feelings, our thought is a faithful mirror that copies its objects truly; but it does so in colors that are fainter and more washed-out than those in which our original perceptions were clothed.",
+		"author": "David Hume"
+	},
 
-	{"text": "A man can rationalize anything if he thinks about it long enough.",
-	"author": "Unknown"},
+	{
+		"text": "Only silly folk identify creative originality with the extraordinary and fanciful; others recognize that its measure lies in putting everyday things to uses which had not occurred to others. The operation is novel, not the materials out of which it is constructed.",
+		"author": "John Dewey"
+	},
 
-	{"text": "Only two things are infinite, the universe and the human stupidity, and I am not too sure about the former",
-	"author": "Albert Einstein"},
+	{
+		"text": "I was really too honest a man to be a politician and live.",
+		"author": "Socrates"
+	},
 
-	{"text": "Being able to break security doesnt make you a hacker anymore than being able to hotwire cars makes you an automotive engineer.",
-	"author": "Eric Raymond"},
+	{
+		"text": "A man can rationalize anything if he thinks about it long enough.",
+		"author": "Unknown"
+	},
 
-	{"text": "Simplicity is the ultimate sophistication.",
-	"author": "Leonardo da Vinci"},
+	{
+		"text": "Only two things are infinite, the universe and the human stupidity, and I am not too sure about the former",
+		"author": "Albert Einstein"
+	},
 
-	{"text": "My mama always used to tell me: ‘If you can’t find somethin’ to live for, you best find somethin’ to die for.",
-	"author": "Tupac Shakur"},
-	
-	{"text": "Television is about watching a life instead of having one.", 
-	"author": "Beth Mazur"},
+	{
+		"text": "Being able to break security doesnt make you a hacker anymore than being able to hotwire cars makes you an automotive engineer.",
+		"author": "Eric Raymond"
+	},
 
-	{"text": "If you ask the government for permission to protest it, you deserve to be told no.",
-	"author": "Jim Lesczynski"},
+	{
+		"text": "Simplicity is the ultimate sophistication.",
+		"author": "Leonardo da Vinci"
+	},
 
-	{"text": "It is easy in the world to live after the world’s opinion; it is easy in solitude to live after our own; but the great man is he who in the midst of the crowd keeps with perfect sweetness the independence of solitude.", 
-	"author": "Ralph Emerson"},
+	{
+		"text": "My mama always used to tell me: ‘If you can’t find somethin’ to live for, you best find somethin’ to die for.",
+		"author": "Tupac Shakur"
+	},
 
-	{"text": "The brain is a wonderful organ; it starts working the moment you get up in the morning and does not stop until you get into the office.",
-	"author": "Robert Frost"},
+	{
+		"text": "Television is about watching a life instead of having one.",
+		"author": "Beth Mazur"
+	},
 
-	{"text": "When you meet a swordsman, draw your sword. Do not recite poetry to one who is not a poet.",
-	"author": "Robert Greene"},
+	{
+		"text": "If you ask the government for permission to protest it, you deserve to be told no.",
+		"author": "Jim Lesczynski"
+	},
 
-	{"text": "All our knowledge merely helps us to die a more painful death than animals that know nothing.", 
-	"author": "Maurice Maeterlinck"},
+	{
+		"text": "It is easy in the world to live after the world’s opinion; it is easy in solitude to live after our own; but the great man is he who in the midst of the crowd keeps with perfect sweetness the independence of solitude.",
+		"author": "Ralph Emerson"
+	},
 
-	{"text": "Democracy is being allowed to vote for the candidate you dislike least.",
-	"author": "Robert Byrne"},
+	{
+		"text": "The brain is a wonderful organ; it starts working the moment you get up in the morning and does not stop until you get into the office.",
+		"author": "Robert Frost"
+	},
 
-	{"text": "Politics is the gentle art of getting votes from the poor and campaign funds from the rich, by promising to protect each from the other.", 
-	"author": "Oscar Ameringer"},
-	
-	{"text": "The big thieves hang the little ones.",
-	"author": "Czech Proverb"},
-	
-	{"text": "That government is best which governs least.",
-	"author": "Thomas Jefferson"},
+	{
+		"text": "When you meet a swordsman, draw your sword. Do not recite poetry to one who is not a poet.",
+		"author": "Robert Greene"
+	},
 
-	{"text": "Nerds just don't happen to dress informally. They do it too consistently. Consciously or not, they dress informally as prophylactic measure against stupidity.",
-	"author": "Paul Graham"},
+	{
+		"text": "All our knowledge merely helps us to die a more painful death than animals that know nothing.",
+		"author": "Maurice Maeterlinck"
+	},
 
-	{"text": "Give a man a 0day and he'll have access for a day, teach a man to phish and he'll have access for life.",
-	"author": "the grugq"},
-	
-	{"text": "We are so vain that we even care for the opinion of those we don't care for.",
-	"author": "Marie von Ebner-Eschenbach"},
-	
-	{"text": "The world is a dangerous place... not because of those who do evil, but because of those who look on and do nothing.",
-	"author": "Mr. Robot"},
-	
-	{"text": "A perfect plan doesn't mean having everything go within expectations. A perfect plan is achieved when it has the plasticity needed to flexibly deal with troubles.",
-	"author": "Shougo Makishima"},
-	
-	{"text": "When a man faces fear, his soul is tested. What he was born to seek... what he was born to achieve... his true nature will become clear.",
-	"author": "Shougo Makishima"},
-	
-	{"text": "No matter what side of the argument you are on, you always find people on your side that you wish were on the other.",
-	"author": "Thomas Berger"},
-	
-	{"text": "'Emergencies' have always been the pretext on which the safeguards of individual liberty have been eroded.",
-	"author": "F.A. Hayek"},
-	
-	{"text": "Everyone wants to live at the expense of the state. They forget that the state lives at the expense of everyone.",
-	"author": "Frédéric Bastiat"},
-	
-	{"text": "Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.",
-	"author": "Aaron Swartz"},
-	
-	{"text": "If there is a problem you can't solve, then there is an easier problem you can solve: find it.", 
-	"author": "George Pólya"},
-	
-	{"text": "You can either be informed and your own rulers, or you can be ignorant and have someone else, who is not ignorant, rule over you.",
-	"author": "Julian Assange"},
-	
-	{"text": "Do I not destroy my enemies when I make them my friends?",
-	"author": "Abraham Lincoln"},
-	
-	{"text": "It is incumbent on every generation to pay its own debts as it goes. A principle which if acted on would save one-half the wars of the world.",
-	"author": "Thomas Jefferson"},
-	
-	{"text": "Bodily decay is gloomy in prospect, but of all human contemplations the most abhorrent is body without mind.",
-	"author": "Thomas Jefferson"},
-	
-	{"text": "There’s no freedom quite like the freedom of being constantly underestimated.",
-	"author": "Scott Lynch"},
-	
-	{"text": "I don't care if I pass your test, I don't care if I follow your rules. If you can cheat, so can I. I won't let you beat me unfairly - I'll beat you unfairly first.",
-	"author": "Ender Wiggin"},
-	
-	{"text": "Do not envy those who seem to be naturally gifted; it is often a curse, as such types rarely learn the value of diligence and focus, and they pay for this later in life.",
-	"author": "Robert Greene"}, 
-	
-	{"text": "Arguing that you don’t care about the right to privacy because you have nothing to hide is no different than saying you don’t care about free speech because you have nothing to say.",
-	"author": "Edward Snowden"},
-	
-	{"text": "If you want to go quickly, go alone. If you want to go far, go together.",
-	"author": "African Proverb"},
-	
-	{"text": "Propaganda is to a democracy what the bludgeon is to a totalitarian state.",
-	"author": "Noam Chomsky"},
-	
-	{"text": "I’ve never found it hard to hack most people. If you listen to them, watch them, their vulnerabilities are like a neon sign screwed into their heads.",
-	"author": "Elliot Alderson"},
-	
-	{"text": "Your mind is programmable – if you’re not programming your mind, someone else will program it for you.",
-	"author": "Jeremy Hammond"},
-	
-	{"text": "If a machine is expected to be infallible, it cannot also be intelligent.",
-	"author": "Alan Turing"},
-	
-	{"text": "Innovation is serendipity, so you don't know what people will make.",
-	"author": "Tim Berners-Lee"},
-	
-	{"text": "If all mankind minus one were of one opinion, mankind would be no more justified in silencing that one person than he, if he had the power, would be justified in silencing mankind.",
-	"author": "John Stuart Mill"},
-	
-	{"text": "You can jail a Revolutionary, but you can't jail the Revolution.",
-	"author": "Huey Newton"},
-	
-	{"text": "The best argument against democracy is a five-minute conversation with the average voter.",
-	"author": "Winston Churchill"},
-	
-	{"text": "If your culture doesn't like geeks, you are in real trouble.",
-	"author": "Bill Gates"},
-	
-	{"text": "A tyrant is always stirring up some war in order that the people may require a leader.",
-	"author": "Plato"},
-	
-	{"text": "The greatest of faults, I should say, is to be conscious of none.",
-	"author": "Thomas Carlyle"},
-	
-	{"text": "If you think you are too small to make an impact, try sleeping in a room with a few mosquitoes.",
-	"author": "West African Proverb"},
-	
-	{"text": "If Tyranny and Oppression come to this land, it will be in the guise of fighting a foreign enemy.",
-	"author": "James Madison"},
-	
-	{"text": "If the path before you is clear, you're probably on someone else's.",
-	"author": "Joesph Campbell"},
-	
-	{"text": "The meeting of two personalities is like the contact of two chemical substances: if there is any reaction, both are transformed.",
-	"author": "Carl Jung"},
-	
-	{"text": "The greatest victory is that which requires no battle.",
-	"author": "Sun Tzu"},
-	
-	{"text": "Power tends to corrupt; absolute power corrupts absolutely. Great men are almost always bad men.",
-	"author": "Lord Acton"},
-	
-	{"text": "All art is exploitation.",
-	"author": "Sherman Alexie"},
-	
-	{"text": "Hackers can do almost anything and be a hacker. You can be a hacker carpenter. It’s not necessarily high tech. I think it has to do with craftsmanship and caring about what you’re doing.",
-	"author": "Steven Levy" },
-	
-	{"text": "I have never let my schooling interfere with my education.",
-	"author": "Mark Twain"},
-	
-	{"text": "It is not titles that honor men, but men that honor titles.",
-	"author": "Niccolò Machiavelli"},
-	
-	{"text": "Tug on anything at all and you’ll find it connected to everything else in the universe.",
-	"author": "John Muir"},
-	
-	{"text": "Do, or do not. There is no ‘try’.",
-	"author": "Grand Master Yoda"},
-	
-	{"text": "If you can’t explain it simply, you don’t understand it well enough.",
-	"author": "Albert Einstein"},
-	
-	{"text": "The true delight is in the finding out rather than in the knowing.",
-	"author": "Issac Asimov"},
-	
-	{"text": "To insult someone we call him 'bestial.' For deliberate cruelty and nature, 'human' might be the greater insult.",
-	"author": "Issac Asimov"},
-	
-	{"text": "Education is a progressive discovery of your own ignorance.",
-	"author": "Will Durant"},
-	
-	{"text":"The vain man does not wish so much to be prominent as to feel himself prominent; he therefore disdains none of the expedients for self-deception and self-outwitting. It is not the opinion of others that he sets his heart on, but his opinion of their opinion.",
-	"author": "Friedrich Nietzsche"},
-	
-	{"text": "A throne is only a bench covered with velvet.",
-	"author": "Napoleon Bonaparte"},
-	
-	{"text": "In politics stupidity is not a handicap.",
-	"author": "Napoleon Bonaparte"},
-	
-	{"text": "I am more afraid of an army of 100 sheep led by a lion than an army of 100 lions led by a sheep.",
-	"author": "Charles-Maurice de Talleyrand"},
-	
-	{"text": "Light travels faster than sound. This is why some people appear bright until you hear them speak.",
-	"author": "Alan Dundes"},
-	
-	{"text": "The mind is not a vessel that needs filling, but wood that needs igniting.",
-	"author": "Plutarch"},
-	
-	{"text": "The potential people who could have been here in my place but who will in fact never see the light of day outnumber the sand grains of Arabia. Certainly those unborn ghosts include greater poets than Keats, scientists greater than Newton. We know this because the set of possible people allowed by our DNA so massively exceeds the set of actual people. In the teeth of these stupefying odds it is you and I, in our ordinariness, that are here.",
-	"author": "Richard Dawkins"},
-	
-	{"text": "Power is a thing of perception. They don't need to be able to kill you. They just need you to think they are able to kill you.",
-	"author": "Julian Assange"},
-	
-	{"text": "Perhaps we've never been visited by aliens because they have looked upon Earth and decided there's no sign of intelligent life.",
-	"author": "Neil deGrasse Tyson"},
-	
-	{"text": "Any planet is 'Earth' to those that live on it.",
-	"author": "Isaac Asimov"},
-	
-	{"text": "Freedom is living without government coercion. So when a politician talks about freedom for this group or that, ask yourself whether he is advocating more government action or less.",
-	"author": "Ron Paul"},
-	
-	{"text": "The urge to save humanity is almost always a false front for the urge to rule.",
-	"author": "H. L. Mencken"},
-	
-	{"text": "One of the penalties for refusing to participate in politics is that you end up being governed by your inferiors.",
-	"author": "Plato" },
-	
-	{"text": "All power comes from the people, and all power must ultimately be invested in them. Anything else is theft.",
-	"author": "Huey Newton"},
-	
-	{"text": "A little learning is a dangerous thing; drink deep, or taste not the Pierian spring: there shallow draughts intoxicate the brain, and drinking largely sobers us again.",
-	"author": "Alexander Pope"},
-	
-	{"text": "If you want to know the taste of a pear, you must change the pear by eating it yourself. If you want to know the theory and methods of revolution, you must take part in revolution. All genuine knowledge originates in direct experience.",
-	"author": "Mao Tse-tung"},
-	
-	{"text": "If anyone says or writes that practical reason must henceforth be based on the rights of the individual and the individual alone, he negates his own proposition if he doesn't incite his audience to make this statement true for themselves.",
-	"author": "Raoul Vaneigem"},
+	{
+		"text": "Democracy is being allowed to vote for the candidate you dislike least.",
+		"author": "Robert Byrne"
+	},
+
+	{
+		"text": "Politics is the gentle art of getting votes from the poor and campaign funds from the rich, by promising to protect each from the other.",
+		"author": "Oscar Ameringer"
+	},
+
+	{
+		"text": "The big thieves hang the little ones.",
+		"author": "Czech Proverb"
+	},
+
+	{
+		"text": "That government is best which governs least.",
+		"author": "Thomas Jefferson"
+	},
+
+	{
+		"text": "Nerds just don't happen to dress informally. They do it too consistently. Consciously or not, they dress informally as prophylactic measure against stupidity.",
+		"author": "Paul Graham"
+	},
+
+	{
+		"text": "Give a man a 0day and he'll have access for a day, teach a man to phish and he'll have access for life.",
+		"author": "the grugq"
+	},
+
+	{
+		"text": "We are so vain that we even care for the opinion of those we don't care for.",
+		"author": "Marie von Ebner-Eschenbach"
+	},
+
+	{
+		"text": "The world is a dangerous place... not because of those who do evil, but because of those who look on and do nothing.",
+		"author": "Mr. Robot"
+	},
+
+	{
+		"text": "A perfect plan doesn't mean having everything go within expectations. A perfect plan is achieved when it has the plasticity needed to flexibly deal with troubles.",
+		"author": "Shougo Makishima"
+	},
+
+	{
+		"text": "When a man faces fear, his soul is tested. What he was born to seek... what he was born to achieve... his true nature will become clear.",
+		"author": "Shougo Makishima"
+	},
+
+	{
+		"text": "No matter what side of the argument you are on, you always find people on your side that you wish were on the other.",
+		"author": "Thomas Berger"
+	},
+
+	{
+		"text": "'Emergencies' have always been the pretext on which the safeguards of individual liberty have been eroded.",
+		"author": "F.A. Hayek"
+	},
+
+	{
+		"text": "Everyone wants to live at the expense of the state. They forget that the state lives at the expense of everyone.",
+		"author": "Frédéric Bastiat"
+	},
+
+	{
+		"text": "Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.",
+		"author": "Aaron Swartz"
+	},
+
+	{
+		"text": "If there is a problem you can't solve, then there is an easier problem you can solve: find it.",
+		"author": "George Pólya"
+	},
+
+	{
+		"text": "You can either be informed and your own rulers, or you can be ignorant and have someone else, who is not ignorant, rule over you.",
+		"author": "Julian Assange"
+	},
+
+	{
+		"text": "Do I not destroy my enemies when I make them my friends?",
+		"author": "Abraham Lincoln"
+	},
+
+	{
+		"text": "It is incumbent on every generation to pay its own debts as it goes. A principle which if acted on would save one-half the wars of the world.",
+		"author": "Thomas Jefferson"
+	},
+
+	{
+		"text": "Bodily decay is gloomy in prospect, but of all human contemplations the most abhorrent is body without mind.",
+		"author": "Thomas Jefferson"
+	},
+
+	{
+		"text": "There’s no freedom quite like the freedom of being constantly underestimated.",
+		"author": "Scott Lynch"
+	},
+
+	{
+		"text": "I don't care if I pass your test, I don't care if I follow your rules. If you can cheat, so can I. I won't let you beat me unfairly - I'll beat you unfairly first.",
+		"author": "Ender Wiggin"
+	},
+
+	{
+		"text": "Do not envy those who seem to be naturally gifted; it is often a curse, as such types rarely learn the value of diligence and focus, and they pay for this later in life.",
+		"author": "Robert Greene"
+	},
+
+	{
+		"text": "Arguing that you don’t care about the right to privacy because you have nothing to hide is no different than saying you don’t care about free speech because you have nothing to say.",
+		"author": "Edward Snowden"
+	},
+
+	{
+		"text": "If you want to go quickly, go alone. If you want to go far, go together.",
+		"author": "African Proverb"
+	},
+
+	{
+		"text": "Propaganda is to a democracy what the bludgeon is to a totalitarian state.",
+		"author": "Noam Chomsky"
+	},
+
+	{
+		"text": "I’ve never found it hard to hack most people. If you listen to them, watch them, their vulnerabilities are like a neon sign screwed into their heads.",
+		"author": "Elliot Alderson"
+	},
+
+	{
+		"text": "Your mind is programmable – if you’re not programming your mind, someone else will program it for you.",
+		"author": "Jeremy Hammond"
+	},
+
+	{
+		"text": "If a machine is expected to be infallible, it cannot also be intelligent.",
+		"author": "Alan Turing"
+	},
+
+	{
+		"text": "Innovation is serendipity, so you don't know what people will make.",
+		"author": "Tim Berners-Lee"
+	},
+
+	{
+		"text": "If all mankind minus one were of one opinion, mankind would be no more justified in silencing that one person than he, if he had the power, would be justified in silencing mankind.",
+		"author": "John Stuart Mill"
+	},
+
+	{
+		"text": "You can jail a Revolutionary, but you can't jail the Revolution.",
+		"author": "Huey Newton"
+	},
+
+	{
+		"text": "The best argument against democracy is a five-minute conversation with the average voter.",
+		"author": "Winston Churchill"
+	},
+
+	{
+		"text": "If your culture doesn't like geeks, you are in real trouble.",
+		"author": "Bill Gates"
+	},
+
+	{
+		"text": "A tyrant is always stirring up some war in order that the people may require a leader.",
+		"author": "Plato"
+	},
+
+	{
+		"text": "The greatest of faults, I should say, is to be conscious of none.",
+		"author": "Thomas Carlyle"
+	},
+
+	{
+		"text": "If you think you are too small to make an impact, try sleeping in a room with a few mosquitoes.",
+		"author": "West African Proverb"
+	},
+
+	{
+		"text": "If Tyranny and Oppression come to this land, it will be in the guise of fighting a foreign enemy.",
+		"author": "James Madison"
+	},
+
+	{
+		"text": "If the path before you is clear, you're probably on someone else's.",
+		"author": "Joesph Campbell"
+	},
+
+	{
+		"text": "The meeting of two personalities is like the contact of two chemical substances: if there is any reaction, both are transformed.",
+		"author": "Carl Jung"
+	},
+
+	{
+		"text": "The greatest victory is that which requires no battle.",
+		"author": "Sun Tzu"
+	},
+
+	{
+		"text": "Power tends to corrupt; absolute power corrupts absolutely. Great men are almost always bad men.",
+		"author": "Lord Acton"
+	},
+
+	{
+		"text": "All art is exploitation.",
+		"author": "Sherman Alexie"
+	},
+
+	{
+		"text": "Hackers can do almost anything and be a hacker. You can be a hacker carpenter. It’s not necessarily high tech. I think it has to do with craftsmanship and caring about what you’re doing.",
+		"author": "Steven Levy"
+	},
+
+	{
+		"text": "I have never let my schooling interfere with my education.",
+		"author": "Mark Twain"
+	},
+
+	{
+		"text": "It is not titles that honor men, but men that honor titles.",
+		"author": "Niccolò Machiavelli"
+	},
+
+	{
+		"text": "Tug on anything at all and you’ll find it connected to everything else in the universe.",
+		"author": "John Muir"
+	},
+
+	{
+		"text": "Do, or do not. There is no ‘try’.",
+		"author": "Grand Master Yoda"
+	},
+
+	{
+		"text": "If you can’t explain it simply, you don’t understand it well enough.",
+		"author": "Albert Einstein"
+	},
+
+	{
+		"text": "The true delight is in the finding out rather than in the knowing.",
+		"author": "Issac Asimov"
+	},
+
+	{
+		"text": "To insult someone we call him 'bestial.' For deliberate cruelty and nature, 'human' might be the greater insult.",
+		"author": "Issac Asimov"
+	},
+
+	{
+		"text": "Education is a progressive discovery of your own ignorance.",
+		"author": "Will Durant"
+	},
+
+	{
+		"text": "The vain man does not wish so much to be prominent as to feel himself prominent; he therefore disdains none of the expedients for self-deception and self-outwitting. It is not the opinion of others that he sets his heart on, but his opinion of their opinion.",
+		"author": "Friedrich Nietzsche"
+	},
+
+	{
+		"text": "A throne is only a bench covered with velvet.",
+		"author": "Napoleon Bonaparte"
+	},
+
+	{
+		"text": "In politics stupidity is not a handicap.",
+		"author": "Napoleon Bonaparte"
+	},
+
+	{
+		"text": "I am more afraid of an army of 100 sheep led by a lion than an army of 100 lions led by a sheep.",
+		"author": "Charles-Maurice de Talleyrand"
+	},
+
+	{
+		"text": "Light travels faster than sound. This is why some people appear bright until you hear them speak.",
+		"author": "Alan Dundes"
+	},
+
+	{
+		"text": "The mind is not a vessel that needs filling, but wood that needs igniting.",
+		"author": "Plutarch"
+	},
+
+	{
+		"text": "The potential people who could have been here in my place but who will in fact never see the light of day outnumber the sand grains of Arabia. Certainly those unborn ghosts include greater poets than Keats, scientists greater than Newton. We know this because the set of possible people allowed by our DNA so massively exceeds the set of actual people. In the teeth of these stupefying odds it is you and I, in our ordinariness, that are here.",
+		"author": "Richard Dawkins"
+	},
+
+	{
+		"text": "Power is a thing of perception. They don't need to be able to kill you. They just need you to think they are able to kill you.",
+		"author": "Julian Assange"
+	},
+
+	{
+		"text": "Perhaps we've never been visited by aliens because they have looked upon Earth and decided there's no sign of intelligent life.",
+		"author": "Neil deGrasse Tyson"
+	},
+
+	{
+		"text": "Any planet is 'Earth' to those that live on it.",
+		"author": "Isaac Asimov"
+	},
+
+	{
+		"text": "Freedom is living without government coercion. So when a politician talks about freedom for this group or that, ask yourself whether he is advocating more government action or less.",
+		"author": "Ron Paul"
+	},
+
+	{
+		"text": "The urge to save humanity is almost always a false front for the urge to rule.",
+		"author": "H. L. Mencken"
+	},
+
+	{
+		"text": "One of the penalties for refusing to participate in politics is that you end up being governed by your inferiors.",
+		"author": "Plato"
+	},
+
+	{
+		"text": "All power comes from the people, and all power must ultimately be invested in them. Anything else is theft.",
+		"author": "Huey Newton"
+	},
+
+	{
+		"text": "A little learning is a dangerous thing; drink deep, or taste not the Pierian spring: there shallow draughts intoxicate the brain, and drinking largely sobers us again.",
+		"author": "Alexander Pope"
+	},
+
+	{
+		"text": "If you want to know the taste of a pear, you must change the pear by eating it yourself. If you want to know the theory and methods of revolution, you must take part in revolution. All genuine knowledge originates in direct experience.",
+		"author": "Mao Tse-tung"
+	},
+
+	{
+		"text": "If anyone says or writes that practical reason must henceforth be based on the rights of the individual and the individual alone, he negates his own proposition if he doesn't incite his audience to make this statement true for themselves.",
+		"author": "Raoul Vaneigem"
+	}
 ]
